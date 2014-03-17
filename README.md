@@ -1,4 +1,4 @@
-FrontEndWebDevGetStartedPS
+Front End Web Development: Get Started
 ==========================
 
-Errata and files site for my pluralsight course on Front End Web Development
+Currently the course is up to date
